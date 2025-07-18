@@ -31,7 +31,7 @@ An Android application built with **Jetpack Compose**, featuring a dynamic quest
 ### 1. `QuestionCard` Screen
 Displays a single question with dynamic input UI based on the type (e.g., dropdown, checkbox, text), handles:
 - Skipping questions via metadata
-- Moving to the next question via `referTo`
+- Moving to the next question via `referTo` , 'skipId'. Refer to from the Options or Records ReferTo.
 - Saving answers to the Room database
 
 ### 2. `SavedScreen`
