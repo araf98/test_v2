@@ -1,10 +1,10 @@
-# 🧠 MyAssessment App
+#  MyAssessment App
 
 An Android application built with **Jetpack Compose**, featuring a dynamic question-answer flow, local persistence using **Room**, and screen-to-screen navigation using **Jetpack Navigation**.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - ✅ Dynamic question rendering based on JSON logic (`referTo`, `skip`)
 - 📥 Saves user answers in a local Room database
@@ -14,7 +14,7 @@ An Android application built with **Jetpack Compose**, featuring a dynamic quest
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 - **Language**: Kotlin
 - **UI Toolkit**: Jetpack Compose
@@ -26,7 +26,7 @@ An Android application built with **Jetpack Compose**, featuring a dynamic quest
 
 ---
 
-## 🧩 Modules
+##  Modules
 
 ### 1. `QuestionCard` Screen
 Displays a single question with dynamic input UI based on the type (e.g., dropdown, checkbox, text), handles:
